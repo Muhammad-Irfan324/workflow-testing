@@ -1,0 +1,7 @@
+ansible
+asn1crypto
+awscli
+bcrypt
+boto3
+boto
+botocore
